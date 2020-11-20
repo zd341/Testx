@@ -16,3 +16,8 @@
  ``` r
 library(ggplot2)
  ```
+
+![alt text](https://picsum.photos/200/200)
+
+some paragraph with text
+> blockquote text below paragraph
