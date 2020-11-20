@@ -6,9 +6,8 @@
 - first time 
 - second time
 - third time
-  - Indented. 
-  
-        a. innner number
+  - Indented
+     a. innner number
     
  [This is a description](https://www.github.com)
  
