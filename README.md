@@ -12,3 +12,7 @@
  [This is a description](https://www.github.com)
  
  This paragraph has some `variale` inline code
+ 
+ ``` r
+library(ggplot2)
+ ```
